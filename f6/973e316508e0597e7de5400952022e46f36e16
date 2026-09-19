@@ -1,0 +1,39 @@
+commands/impeccable.md
+  s_b0b3f02c927d80::t_42c0a3472bd21b 4
+docs/AGENTS.md
+  s_b0b3f02c927d80::t_5e95d92c0efdcd 187,196
+  s_b0b3f02c927d80::t_82e58ed4536f59 157,166
+  s_b0b3f02c927d80::t_2ed07728af60ea 3
+  s_b0b3f02c927d80::t_15c449942336ec 171,174,183,185
+  s_b0b3f02c927d80::t_94e04733b44425 186
+README.md
+  s_b0b3f02c927d80::t_b4b461d7dd3fbb 121
+agents/builder.md
+  s_b0b3f02c927d80::t_d8abd7bc34ed6b 2-3,5-57
+agents/designer.md
+  s_b0b3f02c927d80::t_17de52375f4f21 2-3,5-51
+agents/documenter.md
+  s_b0b3f02c927d80::t_867da81dd7f68f 4-47
+agents/planner.md
+  s_b0b3f02c927d80::t_7553172ba32c5f 2-3,5-75
+agents/reviewer.md
+  s_b0b3f02c927d80::t_983b334eb6e906 2-3,5-45
+agents/tester.md
+  s_b0b3f02c927d80::t_019c184de9ca48 2-3,5-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f6973e316508e0597e7de5400952022e46f36e16",
+  "prompts": {},
+  "sessions": {
+    "s_b0b3f02c927d80": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f47e3952dffeGWByQB1gxyf412",
+        "model": "unknown"
+      },
+      "human_author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
