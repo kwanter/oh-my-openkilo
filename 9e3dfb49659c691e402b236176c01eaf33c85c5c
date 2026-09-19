@@ -1,0 +1,22 @@
+CHANGELOG.md
+  h_00672522f4dbdd 4,7-10,14
+docs/CONFIGURATION.md
+  h_00672522f4dbdd 80
+plugins/agentmemory-capture.ts
+  h_00672522f4dbdd 55-60,123-148,173,288,774-775,777-781,795-800,802-804,806,808-813,815-853,855-901,904,925
+plugins/caveman/plugin.js
+  h_00672522f4dbdd 220-228,234-236,238-240,242,244-248,250-271,273-294,299-339
+plugins/graphify.ts
+  h_00672522f4dbdd 33-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9e3dfb49659c691e402b236176c01eaf33c85c5c",
+  "prompts": {},
+  "humans": {
+    "h_00672522f4dbdd": {
+      "author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
