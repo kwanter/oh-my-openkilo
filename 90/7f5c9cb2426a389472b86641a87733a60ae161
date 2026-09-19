@@ -1,0 +1,23 @@
+agents/builder.md
+  s_b0b3f02c927d80::t_be13891fe31c32 29-30
+  s_b0b3f02c927d80::t_dfb55f034fbfa7 28
+agents/planner.md
+  s_b0b3f02c927d80::t_759d06f522175a 47-48
+  s_b0b3f02c927d80::t_a25d0a599290a7 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "907f5c9cb2426a389472b86641a87733a60ae161",
+  "prompts": {},
+  "sessions": {
+    "s_b0b3f02c927d80": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f47e3952dffeGWByQB1gxyf412",
+        "model": "unknown"
+      },
+      "human_author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
