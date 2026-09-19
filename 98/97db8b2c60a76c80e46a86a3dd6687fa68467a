@@ -1,0 +1,19 @@
+plugins/agentmemory-capture.ts
+  s_65c12a618a3936::t_3c68042aca3e89 146-153,163-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9897db8b2c60a76c80e46a86a3dd6687fa68467a",
+  "prompts": {},
+  "sessions": {
+    "s_65c12a618a3936": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f48b8ceeeffej3I08nofuJTUHD",
+        "model": "unknown"
+      },
+      "human_author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
