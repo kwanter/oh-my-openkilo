@@ -1,0 +1,35 @@
+README.md
+  s_0fdd11787749df::t_a2e78bd2d62b6f 345
+  s_0fdd11787749df::t_f0e9af7e15661f 9,76-77,363
+  s_0fdd11787749df::t_5066db23936830 337
+docs/RULES.md
+  s_0fdd11787749df::t_bcef67cdf41b29 9
+  s_0fdd11787749df::t_3fe105d9d60a4f 19,24
+docs/STRUCTURE.md
+  s_0fdd11787749df::t_6e787e31f71d0a 28,30,45,47
+docs/SKILLS.md
+  s_0fdd11787749df::t_fa72e3a54e8d3f 69
+examples/opencode.example.json
+  s_0fdd11787749df::t_177b716886690c 66
+docs/CONFIGURATION.md
+  s_0fdd11787749df::t_1a0716ef2bc0e0 73
+  s_0fdd11787749df::t_bb5fd265ac797b 75
+CHANGELOG.md
+  s_0fdd11787749df::t_354ad71d0e1c92 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7e7e9147c4adb2d37037d771dbb50d9012689918",
+  "prompts": {},
+  "sessions": {
+    "s_0fdd11787749df": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1ed6ef1cffeNoXYFqv5prMc06",
+        "model": "unknown"
+      },
+      "human_author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
