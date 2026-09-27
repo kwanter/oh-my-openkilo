@@ -1,0 +1,24 @@
+skills/jev-decision/scripts/jev-decide.mjs
+  s_0fdd11787749df::t_5f1a3b56f2eb4e 373
+plugins/jev-router.ts
+  s_0fdd11787749df::t_bb88e6649da4c4 258,263-265,269
+  s_0fdd11787749df::t_c6087104a8c8f5 281-285,288-293,295-299
+  s_0fdd11787749df::t_df75d3be66de8f 49
+  s_0fdd11787749df::t_715c4024fd6ee9 252-254,267-268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "293a83639fcea51fd4f56f20103e549a99f192dd",
+  "prompts": {},
+  "sessions": {
+    "s_0fdd11787749df": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1ed6ef1cffeNoXYFqv5prMc06",
+        "model": "unknown"
+      },
+      "human_author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
