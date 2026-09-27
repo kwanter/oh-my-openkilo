@@ -1,0 +1,19 @@
+plugins/jev-router.ts
+  s_0fdd11787749df::t_719009fadc32ec 282-284,286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "641030d220ca37c3248f2f764b5ebb105faace7c",
+  "prompts": {},
+  "sessions": {
+    "s_0fdd11787749df": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1ed6ef1cffeNoXYFqv5prMc06",
+        "model": "unknown"
+      },
+      "human_author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
