@@ -1,0 +1,41 @@
+docs/CONFIGURATION.md
+  s_0fdd11787749df::t_17d80b65d4a551 75
+  s_0fdd11787749df::t_7f9a820bfffef5 73
+skills/jev-decision/scripts/jev-decide.mjs
+  s_0fdd11787749df::t_ce033e4f8b6e09 377-380
+CHANGELOG.md
+  s_0fdd11787749df::t_e48c7fe613d003 10
+README.md
+  s_0fdd11787749df::t_1d94b689fac397 77
+skills/jev-decision/SKILL.md
+  s_0fdd11787749df::t_0d64355663c38b 55
+rules/jev-routing.md
+  s_0fdd11787749df::t_adeae232eb2226 22,25-36
+docs/RULES.md
+  s_0fdd11787749df::t_49e9fcfe202472 3
+plugins/jev-router.ts
+  s_0fdd11787749df::t_6d227a5d2553b5 43,174-187,195-196
+  s_0fdd11787749df::t_8167b443e2a16e 9-14,18,27-29,38-40,42,46-52,55,57,106,126,128,153-155,157-158,166-168,170-171,197-204,221,237-246,259-269,271-300,317-324,345-346,348
+  s_0fdd11787749df::t_5f85a47cc06ae7 205,207-220,258,270
+  s_0fdd11787749df::t_cc84aefa1d5537 342-344,347
+  s_0fdd11787749df::t_6b2dc57a1931e5 53-54,188-194
+  s_0fdd11787749df::t_fd4d4c83f5ed6f 247-257
+  s_0fdd11787749df::t_3b2cb852f23c20 172-173
+  s_0fdd11787749df::t_1c3ed74bb91518 206
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9e1eef0481a1b939848c10f8a4264f89c2fb6238",
+  "prompts": {},
+  "sessions": {
+    "s_0fdd11787749df": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1ed6ef1cffeNoXYFqv5prMc06",
+        "model": "unknown"
+      },
+      "human_author": "ragrin <kwanterpepen@gmail.com>"
+    }
+  }
+}
